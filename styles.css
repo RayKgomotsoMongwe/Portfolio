@@ -58,7 +58,7 @@ body {
 
 .social-icons a {
   margin: 0 10px;
-  color: #4ca9d4;
+  color: #34d4ec;
   text-decoration: none;
   font-size: 45px;
   transition: color 0.3s ease;
@@ -143,7 +143,7 @@ section {
   bottom: -10px;
   width: 50px;
   height: 3px;
-  background: #4ca9d4;
+  background: #34d4ec;
 }
 
 .about-text {
@@ -295,7 +295,7 @@ section {
 }
 
 .primary {
-  background-color: #4ca9d4;
+  background-color: #34d4ec;
   color: white;
 }
 
@@ -330,7 +330,7 @@ section {
 }
 
 .contact-info {
-  background-color: #4ca9d4;
+  background-color: #34d4ec;
   color: #fff;
   padding: 40px 30px;
   width: 300px;
@@ -387,7 +387,7 @@ section {
 }
 
 .contact-form button {
-  background-color: #4ca9d4;
+  background-color: #34d4ec;
   color: #fff;
   padding: 12px 30px;
   border: none;
